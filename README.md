@@ -1,4 +1,4 @@
-### Please note that this repository is a subset of the "Windows-Camera" repo, owned by Microsoft.
+### Please note that this repository is a subset of the "microsoft/Windows-Camera" repo, owned by Microsoft.
 
 
 
