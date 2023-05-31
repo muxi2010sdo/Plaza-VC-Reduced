@@ -1,3 +1,7 @@
+### Please note that this repository is a subset of the "Windows-Camera" repo, owned by Microsoft.
+
+
+
 # Virtual Camera Sample #
 ### Requirement:
 - Minimum OS version: Windows 11 (10.0.22000.0)
